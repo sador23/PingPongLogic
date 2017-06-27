@@ -16,7 +16,7 @@ namespace UI
         static void Main()
         {
 
-            MainGame game = new Game();
+            MainGame game = new MainGame();
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
