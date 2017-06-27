@@ -15,7 +15,7 @@ namespace Game
         private Paddle player1;
         private Paddle player2;
 
-        public MainGame(Ball ball, Paddle player1, Paddle player2)
+        public MainGame()
         {
 
             this.ball = new Ball(10,10,10,new Position(10,20));
